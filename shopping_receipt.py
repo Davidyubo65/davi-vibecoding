@@ -26,3 +26,5 @@ print(f"Amount due: {total:.2f}")
 print(f"Amount received: {total:.2f}")
 print(f"Change: 0.00")
 print("=" * 48)
+git push
+
